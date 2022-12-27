@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481542248393",
+    "project_id": "fir-miner-b5670",
+    "storage_bucket": "fir-miner-b5670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481542248393:android:62ae5dedab71fd1a107a18",
+        "android_client_info": {
+          "package_name": "com.notesapp22.firebase_miner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481542248393-9oeo1kcuuu76l17k9iq552bq1clml5mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notesapp22.firebase_miner",
+            "certificate_hash": "19568927db982b7641599e827cba0c3a54aac872"
+          }
+        },
+        {
+          "client_id": "481542248393-5ruigirphm0n272f12ehilnocmfdlk0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xSVsTc_JtNCoGvg_acu-u5q0sIztMms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481542248393-5ruigirphm0n272f12ehilnocmfdlk0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
